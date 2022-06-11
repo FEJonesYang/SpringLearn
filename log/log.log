@@ -1,0 +1,78 @@
+2022-06-11 01:09:21.517  INFO 29868 --- [main] c.j.springlearn.SpringLearnApplication   : Starting SpringLearnApplication using Java 1.8.0_322 on DESKTOP-6RNVOSM with PID 29868 (D:\IDEA_Project\SpringLearn\target\classes started by taozi in D:\IDEA_Project\SpringLearn)
+2022-06-11 01:09:21.530  INFO 29868 --- [main] c.j.springlearn.SpringLearnApplication   : No active profile set, falling back to 1 default profile: "default"
+2022-06-11 01:09:23.764  INFO 29868 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2022-06-11 01:09:23.770  INFO 29868 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2022-06-11 01:09:23.819  INFO 29868 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 13 ms. Found 0 Redis repository interfaces.
+2022-06-11 01:09:24.058  WARN 29868 --- [main] o.m.s.mapper.ClassPathMapperScanner      : No MyBatis mapper was found in '[com.jony.springlearn]' package. Please check your configuration.
+2022-06-11 01:09:24.719  INFO 29868 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2022-06-11 01:09:24.734  INFO 29868 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-06-11 01:09:24.735  INFO 29868 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-06-11 01:09:24.900  INFO 29868 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-06-11 01:09:24.901  INFO 29868 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 3179 ms
+2022-06-11 01:09:25.360  WARN 29868 --- [main] ion$DefaultTemplateResolverConfiguration : Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2022-06-11 01:09:26.346  INFO 29868 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2022-06-11 01:09:26.362  INFO 29868 --- [main] c.j.springlearn.SpringLearnApplication   : Started SpringLearnApplication in 6.485 seconds (JVM running for 8.755)
+2022-06-11 01:09:35.689  INFO 29868 --- [SpringApplicationShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-0} closing ...
+2022-06-11 01:34:36.892  INFO 17124 --- [main] c.j.s.SpringLearnApplicationTests        : Starting SpringLearnApplicationTests using Java 1.8.0_322 on DESKTOP-6RNVOSM with PID 17124 (started by taozi in D:\IDEA_Project\SpringLearn)
+2022-06-11 01:34:36.993  INFO 17124 --- [main] c.j.s.SpringLearnApplicationTests        : No active profile set, falling back to 1 default profile: "default"
+2022-06-11 01:34:38.118  INFO 17124 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2022-06-11 01:34:38.123  INFO 17124 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2022-06-11 01:34:38.167  INFO 17124 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 14 ms. Found 0 Redis repository interfaces.
+2022-06-11 01:34:38.564  WARN 17124 --- [main] o.m.s.mapper.ClassPathMapperScanner      : No MyBatis mapper was found in '[com.jony.springlearn]' package. Please check your configuration.
+2022-06-11 01:34:40.887  WARN 17124 --- [main] ion$DefaultTemplateResolverConfiguration : Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2022-06-11 01:34:42.923  INFO 17124 --- [main] c.j.s.SpringLearnApplicationTests        : Started SpringLearnApplicationTests in 6.805 seconds (JVM running for 8.873)
+2022-06-11 01:34:43.896  INFO 17124 --- [SpringApplicationShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-0} closing ...
+2022-06-11 12:48:21.053  INFO 1812 --- [main] c.j.s.SpringLearnApplicationTests        : Starting SpringLearnApplicationTests using Java 1.8.0_322 on DESKTOP-6RNVOSM with PID 1812 (started by taozi in D:\IDEA_Project\SpringLearn)
+2022-06-11 12:48:21.055  INFO 1812 --- [main] c.j.s.SpringLearnApplicationTests        : No active profile set, falling back to 1 default profile: "default"
+2022-06-11 12:48:22.716  INFO 1812 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2022-06-11 12:48:22.724  INFO 1812 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2022-06-11 12:48:22.775  INFO 1812 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 15 ms. Found 0 Redis repository interfaces.
+2022-06-11 12:48:23.068  WARN 1812 --- [main] o.m.s.mapper.ClassPathMapperScanner      : No MyBatis mapper was found in '[com.jony.springlearn]' package. Please check your configuration.
+2022-06-11 12:48:26.151  INFO 13052 --- [main] c.j.s.SpringLearnApplicationTests        : Starting SpringLearnApplicationTests using Java 1.8.0_322 on DESKTOP-6RNVOSM with PID 13052 (started by taozi in D:\IDEA_Project\SpringLearn)
+2022-06-11 12:48:26.154  INFO 13052 --- [main] c.j.s.SpringLearnApplicationTests        : No active profile set, falling back to 1 default profile: "default"
+2022-06-11 12:48:26.179  WARN 1812 --- [main] ion$DefaultTemplateResolverConfiguration : Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2022-06-11 12:48:27.727  INFO 13052 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2022-06-11 12:48:27.736  INFO 13052 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2022-06-11 12:48:27.791  INFO 13052 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 17 ms. Found 0 Redis repository interfaces.
+2022-06-11 12:48:28.106  WARN 13052 --- [main] o.m.s.mapper.ClassPathMapperScanner      : No MyBatis mapper was found in '[com.jony.springlearn]' package. Please check your configuration.
+2022-06-11 12:48:28.690  INFO 1812 --- [main] c.j.s.SpringLearnApplicationTests        : Started SpringLearnApplicationTests in 8.435 seconds (JVM running for 11.307)
+2022-06-11 12:48:29.947  INFO 1812 --- [SpringApplicationShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-0} closing ...
+2022-06-11 12:48:30.401  WARN 13052 --- [main] ion$DefaultTemplateResolverConfiguration : Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2022-06-11 12:48:32.845  INFO 13052 --- [main] c.j.s.SpringLearnApplicationTests        : Started SpringLearnApplicationTests in 7.629 seconds (JVM running for 9.886)
+2022-06-11 12:48:33.656  INFO 13052 --- [SpringApplicationShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-0} closing ...
+2022-06-11 12:49:10.222  INFO 5096 --- [main] c.j.s.SpringLearnApplicationTests        : Starting SpringLearnApplicationTests using Java 1.8.0_322 on DESKTOP-6RNVOSM with PID 5096 (started by taozi in D:\IDEA_Project\SpringLearn)
+2022-06-11 12:49:10.224  INFO 5096 --- [main] c.j.s.SpringLearnApplicationTests        : No active profile set, falling back to 1 default profile: "default"
+2022-06-11 12:49:11.246  INFO 5096 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2022-06-11 12:49:11.254  INFO 5096 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2022-06-11 12:49:11.293  INFO 5096 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 13 ms. Found 0 Redis repository interfaces.
+2022-06-11 12:49:11.509  WARN 5096 --- [main] o.m.s.mapper.ClassPathMapperScanner      : No MyBatis mapper was found in '[com.jony.springlearn]' package. Please check your configuration.
+2022-06-11 12:49:13.455  WARN 5096 --- [main] ion$DefaultTemplateResolverConfiguration : Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2022-06-11 12:49:14.852  INFO 5096 --- [main] c.j.s.SpringLearnApplicationTests        : Started SpringLearnApplicationTests in 5.246 seconds (JVM running for 7.099)
+2022-06-11 12:49:15.473  INFO 5096 --- [SpringApplicationShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-0} closing ...
+2022-06-11 12:49:35.813  INFO 11036 --- [main] c.j.s.SpringLearnApplicationTests        : Starting SpringLearnApplicationTests using Java 1.8.0_322 on DESKTOP-6RNVOSM with PID 11036 (started by taozi in D:\IDEA_Project\SpringLearn)
+2022-06-11 12:49:35.815  INFO 11036 --- [main] c.j.s.SpringLearnApplicationTests        : No active profile set, falling back to 1 default profile: "default"
+2022-06-11 12:49:36.768  INFO 11036 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2022-06-11 12:49:36.773  INFO 11036 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2022-06-11 12:49:36.811  INFO 11036 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 13 ms. Found 0 Redis repository interfaces.
+2022-06-11 12:49:37.015  WARN 11036 --- [main] o.m.s.mapper.ClassPathMapperScanner      : No MyBatis mapper was found in '[com.jony.springlearn]' package. Please check your configuration.
+2022-06-11 12:49:38.744  WARN 11036 --- [main] ion$DefaultTemplateResolverConfiguration : Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2022-06-11 12:49:40.075  INFO 11036 --- [main] c.j.s.SpringLearnApplicationTests        : Started SpringLearnApplicationTests in 4.99 seconds (JVM running for 6.788)
+2022-06-11 12:49:40.723  INFO 11036 --- [SpringApplicationShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-0} closing ...
+2022-06-11 12:49:55.825  INFO 11612 --- [main] c.j.s.SpringLearnApplicationTests        : Starting SpringLearnApplicationTests using Java 1.8.0_322 on DESKTOP-6RNVOSM with PID 11612 (started by taozi in D:\IDEA_Project\SpringLearn)
+2022-06-11 12:49:55.828  INFO 11612 --- [main] c.j.s.SpringLearnApplicationTests        : No active profile set, falling back to 1 default profile: "default"
+2022-06-11 12:49:57.289  INFO 7880 --- [main] c.j.s.SpringLearnApplicationTests        : Starting SpringLearnApplicationTests using Java 1.8.0_322 on DESKTOP-6RNVOSM with PID 7880 (started by taozi in D:\IDEA_Project\SpringLearn)
+2022-06-11 12:49:57.292  INFO 7880 --- [main] c.j.s.SpringLearnApplicationTests        : No active profile set, falling back to 1 default profile: "default"
+2022-06-11 12:49:57.492  INFO 11612 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2022-06-11 12:49:57.501  INFO 11612 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2022-06-11 12:49:57.571  INFO 11612 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 20 ms. Found 0 Redis repository interfaces.
+2022-06-11 12:49:57.912  WARN 11612 --- [main] o.m.s.mapper.ClassPathMapperScanner      : No MyBatis mapper was found in '[com.jony.springlearn]' package. Please check your configuration.
+2022-06-11 12:49:58.590  INFO 7880 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2022-06-11 12:49:58.595  INFO 7880 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2022-06-11 12:49:58.629  INFO 7880 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 10 ms. Found 0 Redis repository interfaces.
+2022-06-11 12:49:58.853  WARN 7880 --- [main] o.m.s.mapper.ClassPathMapperScanner      : No MyBatis mapper was found in '[com.jony.springlearn]' package. Please check your configuration.
+2022-06-11 12:50:00.861  WARN 11612 --- [main] ion$DefaultTemplateResolverConfiguration : Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2022-06-11 12:50:02.311  WARN 7880 --- [main] ion$DefaultTemplateResolverConfiguration : Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2022-06-11 12:50:04.293  INFO 11612 --- [main] c.j.s.SpringLearnApplicationTests        : Started SpringLearnApplicationTests in 9.42 seconds (JVM running for 12.854)
+2022-06-11 12:50:05.207  INFO 7880 --- [main] c.j.s.SpringLearnApplicationTests        : Started SpringLearnApplicationTests in 8.978 seconds (JVM running for 11.207)
+2022-06-11 12:50:05.591  INFO 11612 --- [SpringApplicationShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-0} closing ...
+2022-06-11 12:50:06.287  INFO 7880 --- [SpringApplicationShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-0} closing ...
